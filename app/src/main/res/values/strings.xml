@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="strZero">0</string>
+    <string name="strSeven">7</string>
+    <string name="strEight">8</string>
+    <string name="strNine">9</string>
+    <string name="strFour">4</string>
+    <string name="strFive">5</string>
+    <string name="strSix">6</string>
+    <string name="strOne">1</string>
+    <string name="strTwo">2</string>
+    <string name="strThree">3</string>
+    <string name="strPlus">+</string>
+    <string name="strMinus">-</string>
+    <string name="strMulttiplication">*</string>
+    <string name="strDivision">/</string>
+    <string name="strDecimalP">.</string>
+    <string name="strEqual">=</string>
+</resources>
