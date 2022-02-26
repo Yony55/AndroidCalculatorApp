@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val btnZero = findViewById<Button>(R.id.buttonZero)
+        val btnZero1 = findViewById<Button>(R.id.buttonZero)
         val btnOne = findViewById<Button>(R.id.buttonOne)
         val btnTwo = findViewById<Button>(R.id.buttonTwo)
         val btnThree = findViewById<Button>(R.id.buttonThree)
